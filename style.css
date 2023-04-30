@@ -23,14 +23,14 @@ body{
     grid-column: span 2;
     background-color: #d3d0d0fc;
     border-radius: 2%;
-    padding: 1rem 1rem;
+    padding: 1rem 2rem;
 }
 .col1 .name{
     text-align: center;
     letter-spacing: 1px;
 }
 .details{
-    padding: 2rem 0.5rem;
+    padding: 1rem 0.5rem;
     text-decoration: none;
 }
 .details ul li{
